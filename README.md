@@ -22,4 +22,7 @@
 ├── word3.docx
 ├── BatchDocxToPDF.vbs
 ├── output/
+│   ├── word1.pdf
+│   ├── word2.pdf
+│   ├── word3.pdf
 ```
